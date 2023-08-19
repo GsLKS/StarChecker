@@ -1,5 +1,7 @@
 # StarChecker (v1.3.0)
 
+- [Download](https://starrewards.xyz/labs/starchecker/)
+
 ### Requisitos:
 
 - NodeJS LTS
